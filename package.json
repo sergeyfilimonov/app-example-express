@@ -1,6 +1,7 @@
 {
   "main": "index.js",
   "scripts": {
+    "build": "echo \"Build command\"",
     "start": "node index.js"
   },
   "dependencies": {
